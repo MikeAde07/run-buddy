@@ -243,6 +243,7 @@ section {
     width : 400px;
     height : 400px;
     
+    
 }
 
 .contact-info div {
@@ -259,6 +260,7 @@ section {
     color : #fce138;
     font-size : 32px;
 
+    
 }
 
 .contact-info p, .contact-info address {
@@ -270,4 +272,5 @@ section {
 
 .contact-info a {
     color : #fce138;
+
 }
