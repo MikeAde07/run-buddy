@@ -18,3 +18,5 @@ https://MikeAde07.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by MTK
+
+2019
