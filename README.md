@@ -19,5 +19,4 @@ https://MikeAde07.github.io/run-buddy/
 
 Made with ❤️ by MTK
 
-
-### ©️2019 Run Buddy, Inc.
+#### ©️2019 Run Buddy, Inc
